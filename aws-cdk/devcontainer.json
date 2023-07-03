@@ -14,8 +14,7 @@
 				"amazonwebservices.aws-toolkit-vscode"
 			],
 			"settings": {}
-		},
-		"settings": {}
+		}
 	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
